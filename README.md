@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/evaanthukral-png/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/evaanthukral-png/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/evaanthukral-png/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
