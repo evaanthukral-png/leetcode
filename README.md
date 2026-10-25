@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/evaanthukral-png/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/evaanthukral-png/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/evaanthukral-png/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/evaanthukral-png/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
