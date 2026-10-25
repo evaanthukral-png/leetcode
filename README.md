@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/evaanthukral-png/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/evaanthukral-png/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
+| [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/evaanthukral-png/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/evaanthukral-png/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
