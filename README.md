@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/evaanthukral-png/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/evaanthukral-png/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/evaanthukral-png/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/evaanthukral-png/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/evaanthukral-png/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/evaanthukral-png/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/evaanthukral-png/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/evaanthukral-png/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
