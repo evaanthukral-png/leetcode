@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/evaanthukral-png/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/evaanthukral-png/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
+| [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/evaanthukral-png/leetcode/tree/main/0067-add-binary/) | Easy |
+| [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/evaanthukral-png/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Newton's Method
