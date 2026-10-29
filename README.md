@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/evaanthukral-png/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/evaanthukral-png/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3516-find-closest-person](https://github.com/evaanthukral-png/leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/evaanthukral-png/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/evaanthukral-png/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
