@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/evaanthukral-png/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/evaanthukral-png/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
