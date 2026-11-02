@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/evaanthukral-png/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/evaanthukral-png/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/evaanthukral-png/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/evaanthukral-png/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/evaanthukral-png/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/evaanthukral-png/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/evaanthukral-png/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
