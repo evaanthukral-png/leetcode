@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/evaanthukral-png/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/evaanthukral-png/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/evaanthukral-png/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/evaanthukral-png/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/evaanthukral-png/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/evaanthukral-png/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
