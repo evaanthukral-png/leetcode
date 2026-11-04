@@ -67,6 +67,7 @@ Collection of LeetCode questions solved by me!
 | [0058-length-of-last-word](https://github.com/evaanthukral-png/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/evaanthukral-png/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/evaanthukral-png/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/evaanthukral-png/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -81,12 +82,14 @@ Collection of LeetCode questions solved by me!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/evaanthukral-png/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
