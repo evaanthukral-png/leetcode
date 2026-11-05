@@ -18,6 +18,7 @@ Collection of LeetCode questions solved by me!
 | [1672-richest-customer-wealth](https://github.com/evaanthukral-png/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/evaanthukral-png/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions solved by me!
 | [0125-valid-palindrome](https://github.com/evaanthukral-png/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/evaanthukral-png/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
