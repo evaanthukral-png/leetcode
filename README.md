@@ -15,6 +15,7 @@ Collection of LeetCode questions solved by me!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/evaanthukral-png/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/evaanthukral-png/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -183,4 +184,8 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/evaanthukral-png/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
