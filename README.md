@@ -14,6 +14,7 @@ Collection of LeetCode questions solved by me!
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/evaanthukral-png/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions solved by me!
 | [0001-two-sum](https://github.com/evaanthukral-png/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/evaanthukral-png/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/evaanthukral-png/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/evaanthukral-png/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -46,6 +48,7 @@ Collection of LeetCode questions solved by me!
 | [0070-climbing-stairs](https://github.com/evaanthukral-png/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/evaanthukral-png/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/evaanthukral-png/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/evaanthukral-png/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/evaanthukral-png/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/evaanthukral-png/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -171,6 +174,7 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
