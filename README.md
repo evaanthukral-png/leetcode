@@ -172,6 +172,7 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/evaanthukral-png/leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/evaanthukral-png/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
@@ -192,4 +193,8 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/evaanthukral-png/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/evaanthukral-png/leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 <!---LeetCode Topics End-->
