@@ -26,6 +26,7 @@ Collection of LeetCode questions solved by me!
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/evaanthukral-png/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/evaanthukral-png/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/evaanthukral-png/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions solved by me!
 | [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/evaanthukral-png/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2716-minimize-string-length](https://github.com/evaanthukral-png/leetcode/tree/main/2716-minimize-string-length/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/evaanthukral-png/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
