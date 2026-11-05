@@ -21,6 +21,7 @@ Collection of LeetCode questions solved by me!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/evaanthukral-png/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -208,4 +209,8 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/evaanthukral-png/leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 <!---LeetCode Topics End-->
