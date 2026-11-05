@@ -41,6 +41,7 @@ Collection of LeetCode questions solved by me!
 | [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/evaanthukral-png/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2716-minimize-string-length](https://github.com/evaanthukral-png/leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/evaanthukral-png/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/evaanthukral-png/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions solved by me!
 | [2351-first-letter-to-appear-twice](https://github.com/evaanthukral-png/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/evaanthukral-png/leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2716-minimize-string-length](https://github.com/evaanthukral-png/leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
