@@ -19,6 +19,7 @@ Collection of LeetCode questions solved by me!
 | [1732-find-the-highest-altitude](https://github.com/evaanthukral-png/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions solved by me!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/evaanthukral-png/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [3668-restore-finishing-order](https://github.com/evaanthukral-png/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/evaanthukral-png/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/evaanthukral-png/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -80,6 +82,7 @@ Collection of LeetCode questions solved by me!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2315-count-asterisks](https://github.com/evaanthukral-png/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/evaanthukral-png/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -177,6 +180,7 @@ Collection of LeetCode questions solved by me!
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/evaanthukral-png/leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/evaanthukral-png/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
