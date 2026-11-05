@@ -20,6 +20,7 @@ Collection of LeetCode questions solved by me!
 | [1929-concatenation-of-array](https://github.com/evaanthukral-png/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/evaanthukral-png/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/evaanthukral-png/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/evaanthukral-png/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/evaanthukral-png/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/evaanthukral-png/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions solved by me!
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/evaanthukral-png/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/evaanthukral-png/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/evaanthukral-png/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
