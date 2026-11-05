@@ -77,6 +77,7 @@ Collection of LeetCode questions solved by me!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/evaanthukral-png/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/evaanthukral-png/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/evaanthukral-png/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2315-count-asterisks](https://github.com/evaanthukral-png/leetcode/tree/main/2315-count-asterisks/) | Easy |
 | [2942-find-words-containing-character](https://github.com/evaanthukral-png/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/evaanthukral-png/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
