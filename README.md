@@ -12,6 +12,7 @@ Collection of LeetCode questions solved by me!
 | [0027-remove-element](https://github.com/evaanthukral-png/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/evaanthukral-png/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/evaanthukral-png/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/evaanthukral-png/leetcode/tree/main/0136-single-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/evaanthukral-png/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/evaanthukral-png/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/evaanthukral-png/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions solved by me!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/evaanthukral-png/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/evaanthukral-png/leetcode/tree/main/0136-single-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/evaanthukral-png/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/evaanthukral-png/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Simulation
